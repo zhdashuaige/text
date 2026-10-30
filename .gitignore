@@ -1,0 +1,19 @@
+# Keil 编译输出
+MDK-ARM/text/
+MDK-ARM/*.lst
+MDK-ARM/*.scvd
+
+# J-Link 调试日志和本地设置
+MDK-ARM/JLinkLog.txt
+MDK-ARM/JLinkSettings.ini
+
+# Keil 用户界面布局
+*.uvguix.*
+
+# 常见编译产物
+*.o
+*.d
+*.axf
+*.hex
+*.bin
+*.map
